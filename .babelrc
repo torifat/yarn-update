@@ -1,0 +1,8 @@
+{
+  "only": "*.js",
+  "presets": ["node5", "stage-0"],
+  "plugins": [
+    ["transform-inline-imports-commonjs"],
+    ["transform-runtime", { "polyfill": false, "regenerator": true }]
+  ]
+}

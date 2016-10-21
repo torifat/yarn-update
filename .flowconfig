@@ -1,0 +1,13 @@
+[ignore]
+<PROJECT_ROOT>/lib/.*
+<PROJECT_ROOT>/node_modules/babel.*
+<PROJECT_ROOT>/node_modules/fbjs/.*
+<PROJECT_ROOT>/node_modules/config-chain/.*
+<PROJECT_ROOT>/node_modules/esformatter/.*
+<PROJECT_ROOT>/node_modules/esformatter-jsx/.*
+
+[include]
+
+[libs]
+
+[options]
