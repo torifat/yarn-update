@@ -1,3 +1,11 @@
+## UPDATE
+
+**Please, don't use this tool. It doesn't handle `devDependencies`, `peerDependencies`, `optionalDependencies`, etc now.**
+
+Wait for this PR: https://github.com/yarnpkg/yarn/pull/1444
+
+If for some reason the PR gets rejected then I will update this tool. Thanks ❤️
+
 ## yarn-update
 
 Interactive update for [Yarn](https://yarnpkg.com/)
