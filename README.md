@@ -1,10 +1,14 @@
 ## UPDATE
 
+[The PR](https://github.com/yarnpkg/yarn/pull/1444) has been merged 🎉. Please use `yarn upgrade-interactive` instead.
+
+---
+
 **Please, don't use this tool. It doesn't handle `devDependencies`, `peerDependencies`, `optionalDependencies`, etc now.**
 
-Wait for this PR: https://github.com/yarnpkg/yarn/pull/1444
+~~Wait for this PR: https://github.com/yarnpkg/yarn/pull/1444~~
 
-If for some reason the PR gets rejected then I will update this tool. Thanks ❤️
+~~If for some reason the PR gets rejected then I will update this tool. Thanks ❤️~~
 
 ## yarn-update
 
