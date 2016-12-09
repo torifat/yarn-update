@@ -1,5 +1,5 @@
 /* @flow */
-import { spawn } from 'child_process';
+import spawn from 'cross-spawn';
 import ora from 'ora';
 import chalk from 'chalk';
 import inquirer from 'inquirer';
